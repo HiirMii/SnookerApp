@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Snooker App</string>
+    <string name="info">Welcome to The Snooker App\n press NEW GAME to start</string>
+    <string name="info_horizontal">Welcome to The Snooker App press NEW GAME to start...</string>
+    <string name="player_one">Player 1</string>
+    <string name="player_two">Player 2</string>
+    <string name="initial_score">0</string>
+    <string name="one">+1</string>
+    <string name="two">+2</string>
+    <string name="three">+3</string>
+    <string name="four">+4</string>
+    <string name="five">+5</string>
+    <string name="six">+6</string>
+    <string name="seven">+7</string>
+    <string name="miss">Miss</string>
+    <string name="new_game">New Game</string>
+    <string name="finish">Finish Game</string>
+</resources>
