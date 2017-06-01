@@ -12,10 +12,10 @@ public class MainActivity extends AppCompatActivity {
      * Global variables
      */
 
-    int scorePlayerOne = 0;
-    int scorePlayerTwo = 0;
-    String gameInfo = "";
-    boolean newGameEnabled;
+    int scorePlayerOne;
+    int scorePlayerTwo;
+    String gameInfo;
+    boolean newGameEnabled = true;
     boolean finishGameEnabled;
     boolean oneEnabled;
     boolean twoEnabled;
